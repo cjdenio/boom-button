@@ -5,28 +5,56 @@
         <title>The Boom Button</title>
         <style>
             #boom-button{
+                /*
+                Font stuff
+                */
                 font-size: 100pt;
                 font-family: "Oswald", sans-serif;
                 color: white;
+                /*
+                Other styling
+                */
                 background-color: rgb(255, 80, 0);
                 border: none;
+                border-radius: 10px;
+                box-shadow: 0px 30px 0px rgb(150, 42, 0);
+                outline: none;
+                /*
+                Position/sizing stuff
+                */
+                position: absolute;
+                left: calc(50% - 250px);
+                top: calc(50% - 125px);
+
                 width: 500px;
                 height: 250px;
-
-                transition: all 300ms;
+                /*
+                Other stuff
+                */
+                transition: all 200ms;
                 cursor: pointer;
-
-                vertical-align: middle;
             }
             #boom-button:hover{
-                background-color: rgb(255, 112, 45);
+                /*background-color: rgb(255, 112, 45);*/
+                top: calc(50% - 125px + 10px);
+                box-shadow: 0px 20px 0px rgb(150, 42, 0);
+            }
+            #boom-button:active{
+                top: calc(50% - 125px + 30px);
+                box-shadow: 0px 0px 0px rgb(150, 42, 0);
+                outline: none;
             }
             body{
                 background-color: rgb(20, 20, 20);
             }
         </style>
+        <script>
+            function triggerBoom(){
+                //alert("Nice try! The Boom Button is still in development.")
+            }
+        </script>
     </head>
     <body>   
-            <button id="boom-button">BOOM</button>
+            <button id="boom-button" onClick="triggerBoom()">BOOM</button>
     </body>
 </html>
