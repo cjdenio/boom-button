@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="C:\Users\cjden\Documents\vscode-projects\boom-button\img\favicon.png"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="logo_inkscape_proj.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#141414"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3889775"
+     inkscape:cx="-190.10733"
+     inkscape:cy="60.655872"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true"
+     showborder="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13332)">
+    <rect
+       style="opacity:1;fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.07368919;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect843"
+       width="171.93684"
+       height="96.682266"
+       x="-136.26765"
+       y="232.61032" />
+    <g
+       id="g841">
+      <g
+         id="g827">
+        <circle
+           r="12.021142"
+           cy="281.83627"
+           cx="16.933334"
+           id="circle840"
+           style="opacity:1;fill:#cf4100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07937501;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        <circle
+           style="opacity:1;fill:#ff5000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07937501;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="path838"
+           cx="16.933334"
+           cy="280.06665"
+           r="12.021142" />
+        <path
+           style="fill:#e88d33;fill-opacity:1;stroke:none;stroke-width:0.10484134;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 17.537737,289.85477 c -3.104935,0.16158 -6.609096,-1.77318 -6.689696,-7.01209 -0.0806,-5.23893 6.770294,-8.94647 6.770294,-12.57341 0,0 5.480716,8.38226 5.400117,12.49281 -0.0806,4.11053 -2.375781,6.93111 -5.480715,7.09269 z"
+           id="path824"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="zscsz" />
+        <path
+           sodipodi:nodetypes="zscsz"
+           inkscape:connector-curvature="0"
+           id="path830"
+           d="m 17.297607,289.85845 c -1.871346,0.0974 -3.983307,-1.0687 -4.031885,-4.2262 -0.04858,-3.15749 4.080463,-5.39204 4.080463,-7.578 0,0 3.303232,5.052 3.254654,7.52942 -0.04858,2.47743 -1.431885,4.1774 -3.303232,4.27478 z"
+           style="fill:#e8b833;fill-opacity:1;stroke:none;stroke-width:0.06318796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <flowRoot
+         transform="matrix(0.26458334,0,0,0.26458334,-61.611803,271.69539)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot844"
+         xml:space="preserve"><flowRegion
+           id="flowRegion846"><rect
+             y="3.4594595"
+             x="-466.79639"
+             height="95.019814"
+             width="905.91711"
+             id="rect848" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:center;text-anchor:middle"
+           id="flowPara850"><flowSpan
+             id="flowSpan852"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">THE</flowSpan><flowSpan
+             id="flowSpan858"
+             style="font-size:53.33333206px;text-align:center;text-anchor:middle;fill:#ff5000;fill-opacity:1;-inkscape-font-specification:'Raleway Bold';font-family:Raleway;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">BOOM</flowSpan><flowSpan
+             id="flowSpan854"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">BUTTON</flowSpan></flowPara></flowRoot>    </g>
+  </g>
+</svg>
