@@ -143,7 +143,7 @@
                 top: calc(50% - 315px / 2);
                 left: 50px;
             }*/
-            .giphy-embed{
+            #boom{
                 display: none;
                 height: 100%;
                 width: 100%;
@@ -155,12 +155,12 @@
         <script>
             function triggerBoom(){
                 //alert("Nice try! The Boom Button is still in development.")
-                document.getElementById("giphy-embed").style.display = "block";
+                document.getElementById("boom").style.display = "block";
             }
         </script>
     </head>
     <body>
-        <iframe src="https://giphy.com/embed/oe33xf3B50fsc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/explosion-oe33xf3B50fsc">via GIPHY</a></p>
+        <iframe id="boom" src="https://giphy.com/embed/oe33xf3B50fsc" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
         <img src="img/logo.png" id="logo" />
         <ul id="nav">
             <li>About</li>
