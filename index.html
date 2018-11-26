@@ -154,9 +154,11 @@
             }
         </style>
         <script>
+            var client = new WebSocket("ws://192.168.1.46:1234");
             function triggerBoom(){
                 //alert("Nice try! The Boom Button is still in development.")
-                document.getElementById("boom").style.display = "block";
+                //document.getElementById("boom").style.display = "block";
+                client.send("boom");
             }
         </script>
     </head>
