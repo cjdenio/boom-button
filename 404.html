@@ -1,6 +1,10 @@
 <script>
   window.onload = function(){
-    document.body.style.backgroundImage = "url('https://cjdenio.github.io/boom-button/404s/1.png')";
+    var random = Math.floor(Math.random() * 2);
+    
+    var array = ["1.png", "2.png"];
+    
+    document.body.style.backgroundImage = "url('https://cjdenio.github.io/boom-button/404s/' + array[random])";
 
   }
 </script>
